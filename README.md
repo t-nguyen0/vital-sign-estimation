@@ -1,2 +1,2 @@
 # vital-sign-estimation
-This is an implementation of a non-contact imaging system based on Aubakir et al.'s paper on vital sign monitoring using Eulerian Video Magnification algorithms, where heart rate could be extracted. 
+This reposition is an implementation of a non-contact imaging system based on Aubakir et al.'s paper on vital sign monitoring using Eulerian Video Magnification algorithms, where heart rate can be extracted from input RGB videos. This was my part from a group final project for my Computational Photography class at Rice University where we explored the applications of video magnification algorithms.
